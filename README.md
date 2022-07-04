@@ -3,4 +3,4 @@ Hi, I'm Aaron, a full-stack web development [bootcamp](https://www.epicodus.com/
 
 ---
 ![Aaron Minnick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaronminnick&theme=blue-green&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronminnick&theme=blue-green&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronminnick&theme=blue-green&layout=compact&langs_count=6)
